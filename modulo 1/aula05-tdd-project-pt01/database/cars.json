@@ -1,0 +1,23 @@
+[
+    {
+        "id": "9e8bb10b-e097-4181-858c-fb95d4207c17",
+        "name": "Expedition",
+        "releaseYear": 2022,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "ca0b972d-3709-49ab-b8a8-b3a9cc91c4d5",
+        "name": "Spyder",
+        "releaseYear": 2022,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "5c1c11fd-82b4-49dd-be77-244bd3781f4e",
+        "name": "Roadster",
+        "releaseYear": 2023,
+        "available": true,
+        "gasAvailable": true
+    }
+]
