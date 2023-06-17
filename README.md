@@ -124,4 +124,34 @@ Referências:
 
 - https://refactoring.guru/design-patterns/abstract-...
 
+## aula 4 - Builder, Fluent API e Facade - Analisando os projetos anteriores
+
+---
+Referências:
+
+- https://refactoring.guru/design-patterns/builder
+
+- https://github.com/ErickWendel/semana-javascript-e...
+
+- https://refactoring.guru/design-patterns/builder
+
+- https://en.wikipedia.org/wiki/Fluent_interface
+
+- https://martinfowler.com/bliki/FluentInterface.html
+
+
+## aula 5 - Test Data Builder & Object Mother - Design Patterns for Testing
+---
+Referências:
+
+- https://wiki.c2.com/?TestDataBuilder
+
+- https://www.eventbrite.com/engineering/readable-ja...
+
+- https://ericvruder.dk/20191209/test-data-builder-p...
+
+- https://reflectoring.io/objectmother-fluent-builde...
+
+- http://www.natpryce.com/articles/000714.html
+
 
