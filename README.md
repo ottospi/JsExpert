@@ -155,3 +155,38 @@ Referências:
 - http://www.natpryce.com/articles/000714.html
 
 
+---
+---
+# modulo 7 (Design Patterns II)
+
+## aula 2 - O padrão Strategy - Trabalhando com múltiplos bancos de dados
+---
+Referências:
+
+- Pré-requisitos: https://www.docker.com/products/docker-desktop
+
+- Leitura Adicional
+
+- https://refactoring.guru/design-patterns/strategy
+
+- https://en.wikipedia.org/wiki/Composition_over_inheritance
+
+---
+## aula 2 - O padrão Observer, Jest e 100% de cobertura de código
+---
+Referências:
+
+- https://refactoring.guru/design-patterns/observer
+
+---
+## aula 3 - Template Method - Garantindo fluxos de execução
+---
+Referências:
+
+- https://dzone.com/articles/design-patterns-templat...
+
+- https://www.codeproject.com/Articles/307452/common...
+
+- https://github.com/facebook/jest/issues/5038#issue...
+
+---
