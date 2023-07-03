@@ -190,3 +190,37 @@ Referências:
 - https://github.com/facebook/jest/issues/5038#issue...
 
 ---
+## aula 4 - Decorator - Adicionando comportamento à funções existentes
+---
+Referências:
+
+- Meu Artigo citado no video: Creating an Application Performance Monitor Using Node 14 New and Experimental Features
+https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b
+
+---
+## aula 5 - Adapter - Mantendo a assinatura entre diversas APIs
+---
+Referências:
+
+- Database em JSON: rick-and-morty-characters.json
+
+- Database em XML: rick-and-morty-characters.xml
+
+---
+## aula 6 - Como escolher um padrão de projeto?
+---
+Referências:
+
+- O chart de interrelação usado no video: https://www.startertutorials.com/patterns/select-d...
+
+- https://softwareengineering.stackexchange.com/a/227880
+
+- https://www.startertutorials.com/patterns/select-design-pattern.html
+
+- https://www.gofpatterns.com/design-patterns/module7/how-to-choose-designPattern.php
+
+- https://en.wikipedia.org/wiki/Software_design_pattern
+
+---
+
+
